@@ -92,8 +92,8 @@ class ViewController: UIViewController {
     }
     
     func pauseAnimation() {
-        stopTimer()
-        audioPlayer.stop()
+//        stopTimer()
+//        audioPlayer.stop()
     }
     
     func prepareAudioPlayer() {
